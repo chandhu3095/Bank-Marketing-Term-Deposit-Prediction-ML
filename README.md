@@ -28,27 +28,28 @@ This project demonstrates full **EDA, data preprocessing, SMOTE imbalance handli
 ---
 
 ## 📂 Project Structure
-'''text
+
+```text
 Bank-Marketing-Term-Deposit-Prediction-ML/
 │
 ├── notebook/
-│ └── bank_marketing_analysis.ipynb # Full EDA + ML pipeline
+│   └── bank_marketing_analysis.ipynb
 │
 ├── data/
-│ └── bank-additional-full.csv # Dataset (optional)
+│   └── bank-additional-full.csv
 │
 ├── models/
-│ └── random_forest_model.pkl # Saved ML model
+│   └── random_forest_model.pkl
 │
 ├── images/
-│ ├── correlation_heatmap.png
-│ ├── roc_curve.png
-│ └── feature_importance.png
+│   ├── correlation_heatmap.png
+│   ├── roc_curve.png
+│   └── feature_importance.png
 │
-├── requirements.txt # Dependencies
-└── README.md # Documentation
+├── requirements.txt
+└── README.md
+```
 
----
 
 ## 🔍 Project Workflow
 
