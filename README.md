@@ -28,7 +28,7 @@ This project demonstrates full **EDA, data preprocessing, SMOTE imbalance handli
 ---
 
 ## 📂 Project Structure
-'''
+'''text
 Bank-Marketing-Term-Deposit-Prediction-ML/
 │
 ├── notebook/
@@ -47,7 +47,7 @@ Bank-Marketing-Term-Deposit-Prediction-ML/
 │
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
-'''
+
 ---
 
 ## 🔍 Project Workflow
