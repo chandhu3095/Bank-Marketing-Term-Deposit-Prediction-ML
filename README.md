@@ -39,15 +39,12 @@ Bank-Marketing-Term-Deposit-Prediction-ML/
 │   └── bank-additional-full.csv
 │
 ├── models/
-│   └── random_forest_model.pkl
-│
-├── images/
-│   ├── correlation_heatmap.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
+│   ├── best_xgb__model.pkl
+│   └── best_rf_pipeline_smote.pkl
 │
 ├── requirements.txt
 └── README.md
+
 ```
 
 
